@@ -8,7 +8,7 @@
             0.5
         ],
         [
-            "None",
+            "omnigenxlNSFWSFW_v10.safetensors",
             1.0
         ],
         [
@@ -35,14 +35,15 @@
         "Fooocus V2",
         "Fooocus Cinematic"
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "1152*896", 
     "checkpoint_downloads": {
         "sd_xl_base_1.0_0.9vae.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors",
         "sd_xl_refiner_1.0_0.9vae.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0_0.9vae.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
+        "omnigenxlNSFWSFW_v10.safetensors": "https://civitai.com/api/download/models/228559?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "previous_default_models": []
 }
